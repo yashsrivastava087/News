@@ -12,7 +12,7 @@ A modern news aggregation web application built with React and Vite, powered by 
 
 ## 🚀 Live Demo
 
-Access the live version here: [news-app.vercel.app]([https://news-app-template.vercel.app](https://news-e6fbemkot-yash-srivastavas-projects-bacd7370.vercel.app))
+Access the live version here: https://news-e6fbemkot-yash-srivastavas-projects-bacd7370.vercel.app
 
 ## ✨ Features
 
